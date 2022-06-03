@@ -2,6 +2,7 @@
 Set of Solution to all my LeetCode Question and answers
 
 ## Folder Structure:
+
 📦Leet-Code
  ┣ 📂Answers_
  ┃ ┣ 📜Q14_longest_common_prefix.py
