@@ -2,8 +2,13 @@
 Set of Solution to all my LeetCode Question and answers
 
 ## Folder Structure:
-.
-+-- _ Answers_
-|   +-- Index On Question Number
-+-- _ Modules
-|   +-- Problems Solved in Modules
+📦Leet-Code
+ ┣ 📂Answers_
+ ┃ ┣ 📜Q14_longest_common_prefix.py
+ ┃ ┣ 📜Q1_two_sum.cpp
+ ┃ ┗ 📜Q2_add_two_numbers.py
+ ┣ 📂Modules
+ ┃ ┣ 📜reversing_string.cpp
+ ┃ ┗ 📜swapping_adjacent_node.cpp
+ ┣ 📜.gitignore
+ ┗ 📜README.md
