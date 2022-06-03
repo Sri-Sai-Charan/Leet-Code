@@ -2,7 +2,7 @@
 Set of Solution to all my LeetCode Question and answers
 
 ## Folder Structure:
-<br />
+```
 📦Leet-Code
  ┣ 📂Answers
  ┃ ┣ 📜Q14_longest_common_prefix.py
@@ -13,3 +13,4 @@ Set of Solution to all my LeetCode Question and answers
  ┃ ┗ 📜swapping_adjacent_node.cpp
  ┣ 📜.gitignore
  ┗ 📜README.md
+```
